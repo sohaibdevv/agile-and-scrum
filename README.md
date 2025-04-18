@@ -1,1 +1,2 @@
-# lab-agile-planning
+# Agile Planning 
+# Kanban Board
